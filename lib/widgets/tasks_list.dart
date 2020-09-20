@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:todoey_app/model/task.dart';
 import 'package:todoey_app/model/task_data.dart';
 import 'package:todoey_app/widgets/tasks_tile.dart';
 import 'package:provider/provider.dart';
